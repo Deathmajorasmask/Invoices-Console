@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Programación.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  Main.cpp
+Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Programación.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_Facturas en Consola\windows-app\Debug\invoices.exe
+  Programación.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_Facturas en Consola\windows-app\Debug\invoices.pdb (Full PDB)
